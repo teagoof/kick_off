@@ -1,2 +1,4 @@
 This is the dev_file
 dev_file = version_2 from TRIAL_BRANCH
+Dev_file updated from the DEV_BRANCH_2
+Trying to make another commit from DEV_BRANCH_2
