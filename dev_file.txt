@@ -1,1 +1,2 @@
 This is the dev_file
+dev_file = version_2 from TRIAL_BRANCH
